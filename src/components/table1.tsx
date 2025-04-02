@@ -2,8 +2,8 @@ import React from 'react';
 
 const Table1: React.FC = ()=>{
     return (
-        <table className="collapse">
-            <caption>Popular Ski Destinations</caption>
+        <table id="DemasTable" className="Demas">
+            <caption className="DemasHeader">Popular Ski Destinations</caption>
             <tr>
                 <th>Location</th>
                 <th>Country</th>

@@ -40,3 +40,67 @@
 .read-the-docs {
   color: #888;
 }
+
+body {
+  /*background-color: lightblue;*/
+  background-image: radial-gradient(circle at top left, white, #003a96);
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Arial, sans-serif;
+}
+
+a{
+  color: #222334;
+}
+
+.Demas{
+  color: #222334;
+  margin: auto;
+}
+
+.Bryan{
+  color: #E5B027;
+  margin: auto;
+}
+
+.DemasHeader{
+  color: #b84221;
+  font-weight: bold;
+}
+
+.BryanHeader{
+  color: #D1E03F;
+}
+
+caption{
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
+table, tr, th, td {
+  border: 1px solid;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 5px;
+}
+
+ul {
+  display: inline-block;
+  list-style: none;
+  padding: 0;
+}
+
+
+

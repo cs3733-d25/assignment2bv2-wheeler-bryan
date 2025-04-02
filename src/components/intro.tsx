@@ -9,7 +9,7 @@ interface IntroProps {
 const Intro: React.FC<IntroProps> = ({ name1, name2 }) => {
     return (
         <section>
-            <p>
+            <p className="Demas">
                 Hi! We are {name1} and {name2}. This website that we built is for you to get to know us!
             </p>
         </section>
